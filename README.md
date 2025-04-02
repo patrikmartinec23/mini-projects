@@ -6,15 +6,15 @@ This repository contains 50 small projects built using **HTML, CSS, and JavaScri
 
 Click on any project to view it live:
 
-| #   | Project                       | Live Demo      |
-| --- | ----------------------------- | -------------- |
-| 01  | Expanding Cards               | [Live Demo](#) |
-| 02  | Progress Steps                | [Live Demo](#) |
-| 03  | Rotating Navigation Animation | [Live Demo](#) |
-| 04  | Hidden Search Widget          | [Live Demo](#) |
-| 05  | Blurry Loading                | [Live Demo](#) |
-| ... | ...                           | ...            |
-| 50  | Insect Catch Game             | [Live Demo](#) |
+| #   | Project                       | Live Demo                                                  |
+| --- | ----------------------------- | ---------------------------------------------------------- |
+| 01  | Expanding Cards               | [Live Demo](https://admirable-manatee-ff23be.netlify.app/) |
+| 02  | Progress Steps                | [Live Demo](#)                                             |
+| 03  | Rotating Navigation Animation | [Live Demo](#)                                             |
+| 04  | Hidden Search Widget          | [Live Demo](#)                                             |
+| 05  | Blurry Loading                | [Live Demo](#)                                             |
+| ... | ...                           | ...                                                        |
+| 50  | Insect Catch Game             | [Live Demo](#)                                             |
 
 ---
 
