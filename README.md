@@ -9,7 +9,7 @@ Click on any project to view it live:
 | #   | Project                       | Live Demo                                                  |
 | --- | ----------------------------- | ---------------------------------------------------------- |
 | 01  | Expanding Cards               | [Live Demo](https://admirable-manatee-ff23be.netlify.app/) |
-| 02  | Progress Steps                | [Live Demo](#)                                             |
+| 02  | Progress Steps                | [Live Demo](https://glistening-sawine-21546b.netlify.app/) |
 | 03  | Rotating Navigation Animation | [Live Demo](#)                                             |
 | 04  | Hidden Search Widget          | [Live Demo](#)                                             |
 | 05  | Blurry Loading                | [Live Demo](#)                                             |
